@@ -1,0 +1,18 @@
+/* aspect-ratio: 16 / 9; */
+
+.controls {
+  width: 950px;
+  margin: 0 auto 3em;
+}
+
+.controls textarea {
+  width: 100%;
+}
+
+.video-list {
+  display: grid;
+  grid-template-rows: auto;
+  grid-row-gap: 1.6rem;
+  width: 950px;
+  margin: auto;
+}
