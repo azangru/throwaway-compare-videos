@@ -2,7 +2,7 @@ import { html, render } from 'https://unpkg.com/lit-html?module';
 
 import { ids as youtubeData } from './ids.js';
 
-const width = 950;
+const width = 960;
 const aspectRatio = 16/9;
 const height = width / aspectRatio;
 
